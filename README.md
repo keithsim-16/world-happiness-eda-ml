@@ -5,8 +5,8 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the happiness scores of countries from [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness) together with UN country statistics from [UNData 2015](https://data.un.org/) and [UNData 2017](https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles). For detailed walkthrough, please view the source code in order from:
 
 1. [Preliminary Test](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/1.%20Preliminary%20Test/Preliminary_Test.ipynb)
-2. [Data Processing and Cleaning](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/2.%20Data%20Processing%20_%20Cleaning/Data_Processing___Cleaning.ipynb)
-3. [Exploratory Data Analysis](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/3.%20EDA/Exploratory%20Data%20Analysis.ipynb)
+2. [Data Processing and Cleaning](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/2.%20Data%20Processing%20%26%20Cleaning/Data_Processing___Cleaning.ipynb)
+3. [Exploratory Data Analysis](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/3.%20Exploratory%20Data%20Analysis/Exploratory%20Data%20Analysis.ipynb)
 4. [Machine Learning](https://github.com/keithsim-16/world-happiness-eda-ml/blob/main/4.%20Machine%20Learning/Machine%20Learning.ipynb)
 
 Things to Note:
@@ -30,11 +30,29 @@ Things to Note:
 3. Seaborn
 4. Matplotlib
 5. Sklearn
-6. Geopy
+6. Geopy  
 7. Geopandas
 8. Pydot
 9. Scipy
 10. Graphviz
+
+If you experience any problems, please type or paste this code in the cmd or terminal to install the external libraries:
+```
+pip install geopy
+pip install graphviz
+```
+or
+```
+pip3 install geopy
+pip3 install graphviz
+```
+and
+```
+conda install -c conda-forge geopandas
+
+If you experience any more problems:
+https://geopandas.org/en/stable/getting_started/install.html
+```
 
 ## Folder Summary
 1. Preliminary Testing   
