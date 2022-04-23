@@ -14,9 +14,11 @@ Things to Note:
   
 ## Contributors
 
-- @keithsim-16 - Sim Shi Jie, Keith (U2121044B)
-- @priscillacs - Priscilla Celine Setiawan (U2123732G)
-- @SongHeng3 - Teng Song Heng (U2122030K)
+Equal contribution on everything but machine learning techniques were done separately.
+
+- @keithsim-16 - Sim Shi Jie, Keith (U2121044B) - ElasticNet Linear Regression
+- @priscillacs - Priscilla Celine Setiawan (U2123732G) - Random Forests Regression
+- @SongHeng3 - Teng Song Heng (U2122030K) - K-Means Clustering
 
 ## Problem Definition
 
@@ -38,13 +40,18 @@ Things to Note:
 
 If you experience any problems, please type or paste this code in the cmd or terminal to install the external libraries:
 ```
-pip install geopy
-pip install graphviz
+pip install <library name>
+E.g. pip install geopy
 ```
 or
 ```
-pip3 install geopy
-pip3 install graphviz
+pip3 install <library name>
+E.g. pip3 install geopy
+```
+or
+```
+brew install <library name>
+E.g. brew install geopy
 ```
 and
 ```
