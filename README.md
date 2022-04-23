@@ -1,5 +1,9 @@
 # world-happiness-eda-ml repository
 
+## Video Presentation Link
+
+https://www.youtube.com/watch?v=LuwUOWlvbHY
+
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the happiness scores of countries from [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness) together with UN country statistics from [UNData 2015](https://data.un.org/) and [UNData 2017](https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles). For detailed walkthrough, please view the source code in order from:
